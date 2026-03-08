@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .env
 datasets/
+DS/DataScience_Analytics.pdf
+ML/Machine_Learning_AI.pdf
