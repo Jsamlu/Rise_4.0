@@ -81,20 +81,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-or
-
-```bash
-python scripts/train_model.py
-```
-
----
-
-## 📊 Future Improvements
-
-- Hyperparameter tuning  
-- Model deployment  
-- MLOps pipeline  
-
 ---
 
 ## 📄 License
